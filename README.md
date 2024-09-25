@@ -1,7 +1,18 @@
 HELLO,
 
 This is my Project which converts Images into PDF file.
-Here are some glimpses of my project!!!   
+
+Overview :-
+PIC_2_PAGE is a web application that converts images into a PDF file. Users can upload multiple images, which will be embedded into a PDF and can be easily downloaded. This tool is designed to provide a seamless, user-friendly experience with a clean interface and efficient processing.
+
+Features :-
+1. Image Upload: Easily upload single or multiple images.
+2. PDF Conversion: Automatically converts uploaded images into a downloadable PDF file.
+3. Drag-and-Drop Support: Drag and drop images for convenience.
+
+Tech Stack :-
+1. HTML5, CSS3, JavaScript.
+2. PDFLib.js for handling PDF creation and embedding images into PDF format.
 
 
 ![Screenshot (128)](https://github.com/user-attachments/assets/ad8a2847-6836-4f2f-821d-95ac781f62f5)
